@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: 
+Sitemap: http://tactical.nekromantix.com/cmano/sitemap.xml

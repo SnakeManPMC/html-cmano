@@ -30,6 +30,9 @@
 <p>Info on this page is based on v1.09 Final - Build 757.2
 </p>
 
+<p><a href="file-format.php">File Format</a> of scenario and campaign files.
+</p>
+
 </section>
 
 <footer>

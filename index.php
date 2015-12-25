@@ -33,6 +33,9 @@
 <p><a href="file-format.php">File Format</a> of scenario and campaign files.
 </p>
 
+<p><a href="tutorial-import-export-files.php">Tutorial - Import Export Files</a>, how to save your units and groups to a file.
+</p>
+
 </section>
 
 <footer>

@@ -8,18 +8,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--
-<?php include("include/google-analytics.php"); ?>
--->
+<?php include("../include/google-analytics.php"); ?>
 
 </head>
 <body>
 
-<!--
-<?php include("include/google-ads.php"); ?>
--->
-
 <header>
+<?php include("../include/google-ads.php"); ?>
+<?php include("../include/paypal.php"); ?>
 <h1>PMC Tactical - Command Modern Air/Naval Operations (CMANO)</h1>
 </header>
 
@@ -37,7 +33,10 @@
 </section>
 
 <footer>
+<?php include("../include/paypal.php"); ?>
+<br><br>
 <p><i>2015 - <?print(date("Y"));?>.</i></p>
+<?php include("../include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

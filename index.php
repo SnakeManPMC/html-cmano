@@ -39,6 +39,9 @@
 <p><a href="tutorial-event-editor.php">File Format</a> of scenario and campaign files.
 </p>
 
+<p><a href="news.php">News</a>
+</p>
+
 </section>
 
 <footer>

@@ -42,6 +42,9 @@
 <p><a href="news.php">News</a>
 </p>
 
+<p><a href="scenario-design.php">Scenario Design</a> ideas, tips, etc
+</p>
+
 </section>
 
 <footer>

@@ -45,6 +45,9 @@
 <p><a href="scenario-design.php">Scenario Design</a> ideas, tips, etc
 </p>
 
+<p><a href="scenario-play-throughs.php">Scenario Play Throughs</a>
+</p>
+
 </section>
 
 <footer>

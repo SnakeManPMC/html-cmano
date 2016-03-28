@@ -36,6 +36,9 @@
 <p>Campaign missions should build up international tension for a war, few if not several peace time missions before all the hell breaks loose.
 </p>
 
+<p>PMCTODO this needs to be in scenario editing page: CTRL-X copies the lat/lon of where your cursor is at on the globe.
+</p>
+
 </section>
 
 <footer>

@@ -168,6 +168,37 @@ losses 2x D 170 Z1 [Fletcher]. Major defeat, Score -120
 Triumph, Score 600
 </p>
 
+<p><b>Battle of Strait of Tiran, 1978</b>
+<br><br>
+10-29-16 2021hrs to 2149hrs. Initial attack from enemy fighters took one of my ships down, I totally underestimated them (and was perhaps bit distracted, first time playing CMANO since march). But managed to get one cargo ship into the objective area.
+<br><br>
+Losses: 1x 321 Eilat [Saar 2], 9x F-4E Phantom II [Kurnass], 2x Vehicle (AN/MPQ-48 CWAR), 4x Vehicle (AN/MPQ-46 HPI), 2x Vehicle (AN/MPQ-50 PAR), 2x Vehicle (AN/MPQ-51 ROR), 5x M192 I-HAWK, 1x A-4N Skyhawk [Ahit], 1x Commercial Container Vessel - Feeder [1,600 TEU, 20,000t DWT]. Major Victory, Score 61
+</p>
+
+<p><b>Battle Of The First Salvo, Eastern Med (The War That Never Was), 1989</b>
+<br><br>
+10-30-16 0245hrs to 0525hrs. I don't know but this scenario seems "unfair" or lame because when it started all my strike aircrafts were preparing for TWO HOURS, err why such stupid handicap? The planes were not ready when the enemy was shooting missiles at us. I dont get it...
+<br><br>
+After the initial attack wave there was no enemies in sight or that they were fleeing and long pause in the fighting.
+<br><br>
+Losses 9x A-6E Intruder, 6x AV-8B Harrier II [Day-Only], 8x F-14A Tomcat, 2x F/A-18A Hornet. Major Victory, Score 80
+</p>
+
+<p><b>Battle of Yavin, 1980</b>
+<br><br>
+10-30-16 2203hrs to 2211hrs. This is a joke scenario from star wars, including millenium falcon... oh my. I'll pass! ;)
+</p>
+
+<p><b>Bay of Bengal, 1999</b>
+<br><br>
+10-30-16 2211hrs to hrs. Broken scenario, AEW support mission polygon crosses itself, scenario INVALID.
+</p>
+
+<p><b>Benny's Sweep, 1958</b>
+<br><br>
+10-30-16 2215hrs to hrs. Stone age scenario 1958 heh, no radars (not really), could not get my aircrafts to visual id incoming bogeys.
+</p>
+
 </section>
 
 <footer>

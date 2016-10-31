@@ -36,10 +36,7 @@
 <p><a href="tutorial-import-export-files.php">Tutorial - Import Export Files</a>, how to save your units and groups to a file.
 </p>
 
-<p><a href="tutorial-event-editor.php">File Format</a> of scenario and campaign files.
-</p>
-
-<p><a href="news.php">News</a>
+<p><a href="tutorial-event-editor.php">Tutorial Event Editor</a>
 </p>
 
 <p><a href="scenario-design.php">Scenario Design</a> ideas, tips, etc

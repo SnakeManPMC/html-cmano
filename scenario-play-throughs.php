@@ -203,6 +203,13 @@ It was pretty quiet for a long time, didnt get any visual ID on bogeys which was
 Losses: 10x F2H-3 Banshee, 5x FJ-3M Fury, 5x FJ-4B (AF-1E) Fury, 7x AD-6 Skyraider, 2x AD-5W Skyraider, 2x RF-9J (F9F-8P) Cougar, 1x UH-25B (HUP-2) Retriever. Disaster, Score -500
 </p>
 
+<p><b>Best of the West, Worst of the East, 1982</b>
+<br><br>
+11-01-16 2053hrs to 2132hrs. Slow starting scenario, had to run it on 300x time scale when nothing happened. ASW helos sunk two of my subs, I never got any surface ship contacts, not even from satellites.
+<br><br>
+Losses: 1x PL-641 Foxtrot, 1x PLA-627A November [Kit]. Minor Defeat, Score -2
+</p>
+
 </section>
 
 <footer>

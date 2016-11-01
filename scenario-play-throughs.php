@@ -196,7 +196,11 @@ Losses 9x A-6E Intruder, 6x AV-8B Harrier II [Day-Only], 8x F-14A Tomcat, 2x F/A
 
 <p><b>Benny's Sweep, 1958</b>
 <br><br>
-10-30-16 2215hrs to hrs. Stone age scenario 1958 heh, no radars (not really), could not get my aircrafts to visual id incoming bogeys.
+10-30-16 2215hrs to 11-01-16 0550hrs. Stone age scenario 1958 heh, no radars (not really), could not get my aircrafts to visual id incoming bogeys.
+<br><br>
+It was pretty quiet for a long time, didnt get any visual ID on bogeys which was odd. Then all of the sudden within matter of minutes two MIGs and one ship attacked my carrier group and sunk the carrier! Whoa! :)
+<br><br>
+Losses: 10x F2H-3 Banshee, 5x FJ-3M Fury, 5x FJ-4B (AF-1E) Fury, 7x AD-6 Skyraider, 2x AD-5W Skyraider, 2x RF-9J (F9F-8P) Cougar, 1x UH-25B (HUP-2) Retriever. Disaster, Score -500
 </p>
 
 </section>

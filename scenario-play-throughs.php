@@ -210,6 +210,13 @@ Losses: 10x F2H-3 Banshee, 5x FJ-3M Fury, 5x FJ-4B (AF-1E) Fury, 7x AD-6 Skyraid
 Losses: 1x PL-641 Foxtrot, 1x PLA-627A November [Kit]. Minor Defeat, Score -2
 </p>
 
+<p><b>Better Bullets -AMRAAM-, 1987</b>
+<br><br>
+11-03-16 0044hrs to 0122hrs. Basically I got all my F15s show down hehe.
+<br><br>
+Losses: 24x F-15C Eagle. Major Victory, Score 92
+</p>
+
 </section>
 
 <footer>

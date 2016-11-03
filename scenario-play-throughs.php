@@ -168,6 +168,9 @@ losses 2x D 170 Z1 [Fletcher]. Major defeat, Score -120
 Triumph, Score 600
 </p>
 
+<p>Scenarios played below are with v1.11 Service Release 5 - Build 847.1
+</p>
+
 <p><b>Battle of Strait of Tiran, 1978</b>
 <br><br>
 10-29-16 2021hrs to 2149hrs. Initial attack from enemy fighters took one of my ships down, I totally underestimated them (and was perhaps bit distracted, first time playing CMANO since march). But managed to get one cargo ship into the objective area.
@@ -215,6 +218,37 @@ Losses: 1x PL-641 Foxtrot, 1x PLA-627A November [Kit]. Minor Defeat, Score -2
 11-03-16 0044hrs to 0122hrs. Basically I got all my F15s show down hehe.
 <br><br>
 Losses: 24x F-15C Eagle. Major Victory, Score 92
+</p>
+
+<p>Scenarios played below are with v1.11 Service Release 6 - build 870.3
+</p>
+
+<p><b>Better Bullets -SARH-, 1987</b>
+<br><br>
+11-03-16 0435hrs to 0509hrs. Bit more even fight this time, but I still had trouble getting my eagles to engage aggressively, maybe its just me, maybe its CMANO who knows.
+<br><br>
+Losses: 19x F-15C Eagle. Triumph, Score 162
+</p>
+
+<p><b>Biddle Goes to Algeria, 1984</b>
+<br><br>
+11-03-16 0512hrs to 0609hrs. Was quite nice scenario, small and compact. However I (or my ships heh) shot a neutral ship by accident, it was Harpoon that lost tracking of intended enemy target and hit civvie. Then I lost my ship for heavy enemy fire, scenario failed.
+<br><br>
+Losses: 1x SH-2F Seasprite, 1x CG 26 Belknap. Disaster, Score -370
+</p>
+
+<p><b>Biddle's Quandary, 1982</b>
+<br><br>
+11-03-16 0622hrs to 0822hrs. Nice basic scenario, shot one syrian ship and then all of the sudden submerged contact fired several vampires to one of my ships which was then sunk, uh oh.
+<br><br>
+Losses: 1x SH-2F Seasprite, 1x CG 26 Belknap. Disaster, Score -410
+</p>
+
+<p><b>Biddle's Team, 1981</b>
+<br><br>
+11-03-16 0826hrs to 2321hrs. Good naval action, bit limited weapons but it was more like ship to ship gun battles.
+<br><br>
+Losses: 1x SH-2F Seasprite. Average, Score 280
 </p>
 
 </section>

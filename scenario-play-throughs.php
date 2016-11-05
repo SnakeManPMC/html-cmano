@@ -251,6 +251,13 @@ Losses: 1x SH-2F Seasprite, 1x CG 26 Belknap. Disaster, Score -410
 Losses: 1x SH-2F Seasprite. Average, Score 280
 </p>
 
+<p><b>Birmingham Strikes, 1992</b>
+<br><br>
+11-05-16 2353hrs to 11-06-16 0048hrs. Did not see enemies othern than few RHIBs, hmm? The RHIBs attacked my ship and destroyed the helo on deck, ouch.
+<br><br>
+Losses: 1x Lynx HAS.3. Average, Score 40
+</p>
+
 </section>
 
 <footer>

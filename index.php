@@ -15,7 +15,6 @@
 
 <header>
 <?php include("../include/google-ads.php"); ?>
-<?php include("../include/paypal.php"); ?>
 <h1>PMC Tactical - Command Modern Air/Naval Operations (CMANO)</h1>
 </header>
 
@@ -48,7 +47,6 @@
 </section>
 
 <footer>
-<?php include("../include/paypal.php"); ?>
 <br><br>
 <p><i>2015 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

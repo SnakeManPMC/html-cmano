@@ -6,21 +6,39 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://tactical.nekromantix.com/cmano/</loc>
+  <loc>http://www.pmctactical.org/cmano/</loc>
 </url>
 <url>
-  <loc>http://tactical.nekromantix.com/cmano/file-format.php</loc>
+  <loc>http://www.pmctactical.org/cmano/file-format.php</loc>
 </url>
 <url>
-  <loc>http://tactical.nekromantix.com/cmano/index.php</loc>
+  <loc>http://www.pmctactical.org/cmano/index.php</loc>
 </url>
 <url>
-  <loc>http://tactical.nekromantix.com/cmano/tutorial-event-editor.php</loc>
+  <loc>http://www.pmctactical.org/cmano/tutorial-event-editor.php</loc>
 </url>
 <url>
-  <loc>http://tactical.nekromantix.com/cmano/scenario-design.php</loc>
+  <loc>http://www.pmctactical.org/cmano/scenario-design.php</loc>
 </url>
 <url>
-  <loc>http://tactical.nekromantix.com/cmano/scenario-play-throughs.php</loc>
+  <loc>http://www.pmctactical.org/cmano/scenario-play-throughs.php</loc>
+</url>
+<url>
+  <loc>http://www.pmctactical.org/cmano/unable-to-load-dll-lua52.php</loc>
+</url>
+<url>
+  <loc>http://www.pmctactical.org/cmano/history.php</loc>
+</url>
+<url>
+  <loc>http://www.pmctactical.org/cmano/links.php</loc>
+</url>
+<url>
+  <loc>http://www.pmctactical.org/cmano/settings.php</loc>
+</url>
+<url>
+  <loc>http://www.pmctactical.org/cmano/downloads.php</loc>
+</url>
+<url>
+  <loc>http://www.pmctactical.org/cmano/scenario-editing-basics.php</loc>
 </url>
 </urlset>

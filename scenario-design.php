@@ -38,6 +38,14 @@
 <p>PMCTODO this needs to be in scenario editing page: CTRL-X copies the lat/lon of where your cursor is at on the globe.
 </p>
 
+<p>
+CWDB is the database that covers 1940 - 1978 and DB3000 covers 1979 - into the future.
+</p>
+
+<p>
+Do not write intro and briefing as huge wall of text, add some paragraphs and stuff to make reading easier. Good story in scenario introduction and briefing as well as events is awesome, I love those, but please don't make them as huge wall of text nobody wants to read.
+</p>
+
 </section>
 
 <footer>

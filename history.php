@@ -3,8 +3,8 @@
 <head>
 <title>Command Modern Air/Naval Operations (CMANO) - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Command Modern Air/Naval Operations (CMANO), Event Editor Tutorial - PMC Tactical">
-<META name="keywords" content="Command, Modern, Air, Naval, Operations, CMANO, Event, Editor, PMC, Tactical">
+<META name="description" content="History of Command Modern Air/Naval Operations (CMANO) - PMC Tactical">
+<META name="keywords" content="History, Command, Modern, Air, Naval, Operations, CMANO, PMC, Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -19,20 +19,20 @@
 </header>
 
 <section>
-<h2>Tutorial Event Editor</h2>
+	<h2>History</h2>
 
 <p>
-You should prefix events and triggers for each side, so they can be easily sorted out.
+Northern Inferno
 </p>
 
-<h2>Tutorial Carrier Aircraft Magazines</h2>
 <p>
+<b>05-18-17</b> CMANO: Chains of War was released. v1.12 Build 936.11
 </p>
 
 </section>
 
 <footer>
-<p>Back to <a href="index.php">CMANO root page</a></p>
+<p>Back to <a href="index.php">PMC CMANO root page</a></p>
 <br><br>
 <p><i>PMC CMANO 2015 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

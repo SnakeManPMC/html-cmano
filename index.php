@@ -20,13 +20,10 @@
 
 <section>
 <h2>Command Modern Air/Naval Operations (CMANO)</h2>
-<p>It all started to game called Harpoon back in the 1989.
+<p>It all started to game called Harpoon back in the 1989. CMANO: Northern Inferno is said to be very close to what we old late 80's Harpoon players remember.
 </p>
 
 <p>CMANO is developed by Warfare Sims, published by Matrix Games and released on September 24, 2013.
-</p>
-
-<p>Info on this page is based on v1.09 Final - Build 757.2
 </p>
 
 <p><a href="file-format.php">File Format</a> of scenario and campaign files.
@@ -41,7 +38,25 @@
 <p><a href="scenario-design.php">Scenario Design</a> ideas, tips, etc
 </p>
 
+<p><a href="scenario-editing-basics.php">Scenario Editing Basics</a>
+</p>
+
 <p><a href="scenario-play-throughs.php">Scenario Play Throughs</a>
+</p>
+
+<p><a href="unable-to-load-dll-lua52.php">How to fix error: Unable to load DLL lua52</a>
+</p>
+
+<p><a href="history.php">History</a>
+</p>
+
+<p><a href="settings.php">Settings</a>, how to optimize performance etc.
+</p>
+
+<p><a href="links.php">Links</a>
+</p>
+
+<p><a href="downloads.php">Downloads</a>
 </p>
 
 </section>

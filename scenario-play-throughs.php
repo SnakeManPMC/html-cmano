@@ -19,7 +19,8 @@
 </header>
 
 <section>
-<h2>Scenario Play Throughs</h2>
+	<h2>Scenario Play Throughs</h2>
+
 <p>This is a list of scenarios I played through and very quick comments of how good the scenario was, how I played, my losses and ending score. These are from Community Scenario Pack 30 dated Dec 7th, 2015. But that is just a start, I'm hoping to grow this as I play along any scenarios I get my hands on as well as campaigns.
 </p>
 
@@ -256,6 +257,170 @@ Losses: 1x SH-2F Seasprite. Average, Score 280
 <br><br>
 Losses: 1x Lynx HAS.3. Average, Score 40
 </p>
+
+<p><b>Black Gold, 1985</b>
+<br><br>
+05-25-17 0703hrs. Stupid scenario start (as they often are), you start it and missiles are already flying towards your units which seem to be placed like silver platter for the enemy to shoot, I don't get it. Got two of my phantoms hit, two ships sunk and two oil platforms hit without being able to do anything, great scenario design, thumbs up. Scenario scheduled for deletion, this shit should not be in community scenario pack.
+</p>
+
+	<h2>Upgraded to CommunityScenarioPack036</h2>
+
+<p>
+Because apparently there are bunch of polygon errors on some of these older scenarios, I upgraded into community scenario pack number 36. Unsure what the changes are, assuming many scenarios have been added, but no idea if old ones have been deleted or broken ones edited and fixed.
+</p>
+
+<p><b>Black Tiger I, 2015</b>
+<br><br>
+05-25-17 1117hrs to 1148hrs. Ripper 5 flight shot down two MIG-29's which failed the mission because they didn't have permission to fire, or something.
+<br><br>
+Losses: none. Disaster, Score -20
+</p>
+
+<p><b>Black Tiger II, 2015</b>
+<br><br>
+05-25-17 1202hrs to 1257hrs. Destroyed few gunboats. BTW apparently these black tiger scenarios are closely related, why on earth these were not made as campaign?
+<br><br>
+Losses: none. Triumph, Score 130
+</p>
+
+<p><b>Black Tiger III, 2015</b>
+<br><br>
+05-25-17 1302hrs to 1434hrs. Nothing really happened, one of my arleigh burke class ships hit a mine and received minor damage.
+<br><br>
+Losses: none. Average, Score 0
+</p>
+
+<p><b>Black Tiger IV, 2015</b>
+<br><br>
+05-25-17 1440hrs to 1549hrs. Oddly this now jumps into iranian side heh, but I guess as these are after all scenarios, there is no campaign style requirement to have continuation between scenarios. Wall of migs attack to the amerikan GREAT SATAN ships and after huge aircraft losses finally islamic fighter allah ships sneaked missiles in and destroyed all the GREAT SATAN ships, "wohuu" :)
+<br><br>
+Losses: 33x F-5F Tiger II, 33x F-4E Phantom II, 18x Su-33 Flanker D, 26x MiG-29 Fulcrum A, 16x Su-34 Fullback, 12x MiG-29 Fulcrum A, 3x MiG-35 Foxglove [MiG 1.42 MFI], 18x F-14A Tomcat [F-14AM], 2x SA-8b Gecko Mod-1 [9A33BM3] TELAR, 1x Vehicle (Grave Stone [92N2]), 3x SA-16 Gimlet [9K310 Igla-1] MANPADS, 8x SA-21a/b Growler TEL, 1x Vehicle (Cheese Board [96L6]), 1x Bavar 2 [WIG]. Average, Score 91
+</p>
+
+<p><b>Black Tiger V, 2015</b>
+<br><br>
+05-25-17 1623hrs to 06-02-17 1742hrs. Starting situation was really exciting for this, US carrier group penetrating hostile persial gulf in brink of a nuclear war, whoah. This scenario has some MIG-35 foxglove aircrafts which are hypothetical, nice... I did not sign up to play qUaK3 r0Ck3T arena goddamnit. However decided to play through, I don't want to spoil any details as this was really long, painful and exciting scenario, shame that the hypothetical crap took some shine away.
+<br><br>
+Losses: no spoilers. Triumph, Score 1040
+</p>
+
+<p><b>Bosphorus Blues (The War That Never Was) Warsaw Pact, 1989</b>
+<br><br>
+06-04-17 1313hrs to 2015hrs. Playing on commie side, don't like it at all, had no passion for this scenario. I guess my planes got shot down and scenario was lost.
+<br><br>
+Losses: 11x Su-24M Fencer D, 5x MiG-29 Fulcrum C, 1x Tu-22KPD Blinder B, 3x Su-27S Flanker B. ?, Score 0
+</p>
+
+<p><b>Bostons Battle, 1963</b>
+<br><br>
+06-04-17 2021hrs to 2115hrs. Tiny scenario, just three ships. Sunk few ships and one sub.
+<br><br>
+Losses: none. Major Victory, Score 320
+</p>
+
+<p><b>Bostons Brawl, 1963</b>
+<br><br>
+06-04-17 2117hrs to 2145hrs. Tiny scenario, just three ships. Sunk one sub.
+<br><br>
+Losses: none. Minor Defeat, Score 0
+</p>
+
+<p><b>Breaking Bad, 2105</b>
+<br><br>
+06-04-17 2147hrs to 2351hrs. What the hell is AQAP? other than that quite nice smallish setup. Scenario ended oddly soon.
+<br><br>
+Losses: 2x AH-1Z Viper [Super Cobra], 1x A-10C Thunderbolt II, 1x Marker (Geographic/Aimpoint), 1x F-15E Strike Eagle, 1x F-15C Eagle. Disaster, Score -29
+</p>
+
+<p><b>Buenos Aires Express, 1982</b>
+<br><br>
+06-05-17 0001hrs to hrs. Tiny scenario, also doesn't appear to work as message log gets spam of error type messages.
+<br><br>
+Losses: n/a. n/a, Score n/a
+</p>
+
+<p><b>Building a Cage, 2005</b>
+<br><br>
+06-05-17 0011hrs to 1946hrs. Quite interesting scenario. I ran out of ordnance fairly quickly, not sure if it was by design or a bug, either case it felt dumb.
+<br><br>
+Losses: 5x MiG-25P Foxbat A, 3x Su-24MK2 Fencer D, 5x MiG-25P Foxbat A, 9x Mirage F.1EH, 3x F-16CG Blk 42 Falcon [Peace Vector II Upgr], 1x S 311 Al Badr [PL-641 Foxtrot], 2x SH-2G(E) Seasprite. Triumph, Score 682
+</p>
+
+<p><b>Busy Day in Burundi, 1976</b>
+<br><br>
+06-05-17 1948hrs to 2051hrs. Bombed rebel hutus in the jungle and of course some innocents got in the way.
+<br><br>
+Losses: 1x Canberra PR.9, 1x Buccaneer S.2C. Disaster, Score -195
+</p>
+
+<p><b>Cable-tap, 2015</b>
+<br><br>
+06-05-17 2055hrs to 2105hrs. Another scenario where I have no passion for. Briefing says Kim Dotcom is a criminal? Haha. I actually refused to play this stupid scenario, the good thing about community scenarios; you can choose what to play.
+<br><br>
+Losses: n/a. n/a, Score n/a
+</p>
+
+<p><b>Cape Road, 2023</b>
+<br><br>
+06-05-17 2111hrs to 2214hrs. Had a small surface shoot'em up.
+<br><br>
+Losses: none. Triumph, Score 460
+</p>
+
+<p><b>Caribbean Clinch, 1956</b>
+<br><br>
+06-06-17 1345hrs to 1534hrs. Soviet surface group was stopped (ie they did not move), it felt like a scenario bug. Scenario ended soon after I got contact.
+<br><br>
+Losses: 1x P2V-2 Neptune, 1x F2H-3 Banshee. Minor Defeat, Score -60
+</p>
+
+<p><b>Caribbean Crisis - The Prelude, 2012</b>
+<br><br>
+06-10-17 0315hrs to 0502hrs. Nice very small scenario, bit one sided though but still ok.
+<br><br>
+Losses: 5x Building (Barracks), 1x Building (Communication Hub). Minor Victory, Score 20
+</p>
+
+<p><b>Caribbean Crisis - The Showdown, 2012</b>
+<br><br>
+06-11-17 1642hrs to ?hrs. Again caribbean crisis is string of scenarios which should have been made as campaign, why its not I have no idea. Enemy air force was too much on this one, my planes got shot down one by one and I could see the end coming long before... Had to abandon the mission eventually, didn't want to send good Dutch men to their deaths invane.
+<br><br>
+Losses: 15x F-16AM Falcon MLU, 2x AH-64D Apache, 2x NH90 NFH, 1x F 802 De Zeven Provincien, 3x NH90 TTH [Caiman], 2x C-130H Hercules. Major Defeat, Score -165
+</p>
+
+<p><b>Caribbean Fury 1 - Hot Tamales, 1994</b>
+<br><br>
+06-12-17 2132hrs to 06-13-17 0120hrs. Another scenario string which should have been made as campaign, sigh. Scenario description and briefing mostly duplicated which is stupid, also it was long and tedious to read without any clear objective (which it said it was). This is one of the largest, if not the largest scenario I have ever played with 3000 units.
+</p>
+
+<p>
+Wall of text orders started to come in... this scenario feels, I hate to admit, too large. Scenario was pure slaughterfest with wall of text message after message coming in. I'm sure scenario author had put insane amount of effort to this, but this is not enjoyable scenario heh not even close. Decided to end the mission, perhaps another day I feel for such insane scenario, but that is not today.
+<br><br>
+Losses: n/a. n/a, Score n/a
+</p>
+
+<p><b>Caribbean Task Force Ruby, 1963</b>
+<br><br>
+06-13-17 2211hrs to 2336hrs. Umm got attacked and scenario ended, heh.
+<br><br>
+Losses: 2x DD 710 Gearing FRAM 1 Group B. Disaster, Score -200
+</p>
+
+<p><b>Carribean March 21st, 2022</b>
+<br><br>
+06-14-17 0807hrs to 1119hrs. Briefing was with some shitty font I could barely read on 4k screen, so I didn't. I was bit slow on my assault, ran out of time and mission ended. Oddly enough I did not get rating.
+<br><br>
+Losses: 1x S 802 Walrus, 16x F-35A Lightning II, 10x F-16AM Falcon MLU, 1x Airbus A.330-200 MRTT [KC-30A], 3x AH-64D Apache. n/a, Score 155
+</p>
+
+<!--
+<p><b>NAME</b>
+<br><br>
+-17 hrs to -17 hrs. DESCRIPTION
+<br><br>
+Losses: . , Score
+</p>
+-->
 
 </section>
 

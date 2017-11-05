@@ -56,7 +56,7 @@ Before you start to add units, you need sides added.
 <footer>
 <p>Back to <a href="index.php">PMC CMANO root page</a></p>
 <br><br>
-<p><i>PMC CMANO 2015 - <?print(date("Y"));?>.</i></p>
+<p><i>PMC CMANO 2015 - <?php print(date("Y")); ?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>
 

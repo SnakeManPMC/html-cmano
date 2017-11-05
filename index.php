@@ -63,7 +63,7 @@
 
 <footer>
 <br><br>
-<p><i>2015 - <?print(date("Y"));?>.</i></p>
+<p><i>2015 - <?php print(date("Y")); ?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>
 

@@ -413,6 +413,11 @@ Losses: 2x DD 710 Gearing FRAM 1 Group B. Disaster, Score -200
 Losses: 1x S 802 Walrus, 16x F-35A Lightning II, 10x F-16AM Falcon MLU, 1x Airbus A.330-200 MRTT [KC-30A], 3x AH-64D Apache. n/a, Score 155
 </p>
 
+<p><b>Carrier Battle Group ASW test_14, 1984</b>
+<br><br>
+10-18-17 0404hrs to 10-18-17 0435hrs. Corridor setup for carrier to sail, umm am I playing COD or what? And aircraft sorties ran out very quickly, then the carrier was unprotected, nice.
+</p>
+
 <!--
 <p><b>NAME</b>
 <br><br>

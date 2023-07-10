@@ -2,16 +2,33 @@
 /* every page? */
 body
 {
-	background: dimgray;
-	color: white;
-	
+	background: #262626;
+	color: #cccccc;
+
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 16px;
 
 	text-align: left;
-	max-width: 50%;
-	margin-left: auto;
-	margin-right: auto;
+	max-width: 100%;
+	margin: 0px 10px;
+}
+
+/* desktop browser 1080p peasant values, dunno? */
+
+/* desktop browser 4k luxurious */
+@media only screen and (min-width: 768px)
+{
+	body
+	{
+		max-width: 100%;
+		font-size: 16px;
+	}
+}
+
+/* pre tag wrapping, mostly for mobile devices */
+pre
+{
+	white-space: pre-wrap;
 }
 
 /* no idea what this is */
@@ -31,7 +48,15 @@ body
 h1
 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 32px;
+	font-size: 40px;
+	color: white;
+}
+
+h2
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: white;
 }
 
 header
@@ -48,4 +73,34 @@ footer
 {
 	text-align: center;
 	width: 100%;
+}
+
+b
+{
+	color: rgb(255,255,255);
+}
+
+a:link, a:visited
+{
+	background-color: green;
+	color: white;
+	padding: 3px 3px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+a:hover, a:active
+{
+	background-color: blue;
+}
+
+.imageresponsive
+{
+/*
+	padding: 3px 15px;
+*/
+	max-width: 768px;
+	width: auto;
+	height: auto;
 }

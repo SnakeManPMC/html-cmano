@@ -47,6 +47,7 @@ CMANO is developed by Warfare Sims, published by Matrix Games and released on Se
 <p><a href="tutorial-import-export-files.php">Tutorial - Import Export Files</a>, how to save your units and groups to a file.</p>
 <p><a href="tutorial-scenarios.php">Tutorial Scenarios</a></p>
 <p><a href="unable-to-load-dll-lua52.php">How to fix error: Unable to load DLL lua52</a></p>
+<p><a href="unit-descriptions.php">Unit Descriptions</a></p>
 
 </section>
 

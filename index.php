@@ -35,6 +35,7 @@ CMANO is developed by Warfare Sims, published by Matrix Games and released on Se
 <p><a href="message-log-fix.php">Message Log Fix</a></p>
 <p><a href="scenario-design.php">Scenario Design</a> ideas, tips, etc</p>
 <p><a href="scenario-editing-basics.php">Scenario Editing Basics</a></p>
+<p><a href="scenario-editor-soviet-submarines.php">Scenario Editor Soviet Submarines</a></p>
 <p><a href="scenario-play-throughs.php">Scenario Play Throughs</a></p>
 <p><a href="settings.php">Settings</a>, how to optimize performance etc.</p>
 <p><a href="ship-traveling-time.php">Ship Traveling Time</a></p>

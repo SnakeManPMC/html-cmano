@@ -104,7 +104,23 @@
 </p>
 
 <p>
-PMCTODO post 2017 all the history is missing, please research and add it it :(
+PMCTODO post 2017 most of the history is missing, please research and add it it :(
+</p>
+
+<p>
+2023-08-09 Command Modern Operations v1.06 has been released! <a href="https://command.matrixgames.com/?p=5601" target="_blank">news link</a>.
+</p>
+
+<p>
+2023-09-12 Command Showcase: Desert Falcon Announced <a href="https://www.matrixgames.com/forums/viewtopic.php?f=10201&t=398024" target="_blank">news link</a>.
+</p>
+
+<p>
+2023-10-10 Command Showcase: Desert Falcon has been released! <a href="https://command.matrixgames.com/?p=5632" target="_blank">news link</a>.
+</p>
+
+<p>
+2024-02-02 Command Showcase: Icebreakers has been released! <a href="https://command.matrixgames.com/?p=5669" target="_blank">news link</a>.
 </p>
 
 </section>

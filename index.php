@@ -36,6 +36,7 @@ CMANO is developed by Warfare Sims, published by Matrix Games and released on Se
 <p><a href="scenario-editing-basics.php">Scenario Editing Basics</a></p>
 <p><a href="scenario-play-throughs.php">Scenario Play Throughs</a></p>
 <p><a href="settings.php">Settings</a>, how to optimize performance etc.</p>
+<p><a href="sprint-and-drift.php">Sprint and Drift</a></p>
 <p><a href="tutorial-event-editor.php">Tutorial Event Editor</a></p>
 <p><a href="tutorial-import-export-files.php">Tutorial - Import Export Files</a>, how to save your units and groups to a file.</p>
 <p><a href="tutorial-scenarios.php">Tutorial Scenarios</a></p>

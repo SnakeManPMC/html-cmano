@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Command Modern Air/Naval Operations (CMANO) - PMC Tactical</title>
+<title>Tutorial Event Editor Command Modern Air/Naval Operations (CMANO) PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Command Modern Air/Naval Operations (CMANO), Event Editor Tutorial - PMC Tactical">
-<META name="keywords" content="Command, Modern, Air, Naval, Operations, CMANO, Event, Editor, PMC, Tactical">
+<META name="description" content="Tutorial Event Editor Command Modern Air/Naval Operations (CMANO) PMC Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,19 +13,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Command Modern Air/Naval Operations (CMANO)</b></h1>
+<h1>Tutorial Event Editor Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
 </header>
 
 <section>
-<h2>Tutorial Event Editor</h2>
+	<h2>Tutorial Event Editor</h2>
 
 <p>
 You should prefix events and triggers for each side, so they can be easily sorted out.
-</p>
-
-<h2>Tutorial Carrier Aircraft Magazines</h2>
-<p>
 </p>
 
 </section>

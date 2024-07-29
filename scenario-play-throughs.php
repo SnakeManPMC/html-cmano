@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Command Modern Air/Naval Operations (CMANO) Scenario Play Throughs- PMC Tactical</title>
+<title>Scenario Play Throughs Command Modern Air/Naval Operations (CMANO) PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Command Modern Air/Naval Operations (CMANO) Scenario Play Throughs - PMC Tactical">
-<META name="keywords" content="Command, Modern, Air, Naval, Operations, CMANO, Scenario, Play, Throughs, PMC, Tactical">
+<META name="description" content="Scenario Play Throughs Command Modern Air/Naval Operations (CMANO) PMC Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,8 +13,7 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Command Modern Air/Naval Operations (CMANO) Scenario Play Throughs</b></h1>
+<h1>Scenario Play Throughs Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
 </header>
 
 <section>
@@ -417,15 +415,6 @@ Losses: 1x S 802 Walrus, 16x F-35A Lightning II, 10x F-16AM Falcon MLU, 1x Airbu
 <br><br>
 10-18-17 0404hrs to 10-18-17 0435hrs. Corridor setup for carrier to sail, umm am I playing COD or what? And aircraft sorties ran out very quickly, then the carrier was unprotected, nice.
 </p>
-
-<!--
-<p><b>NAME</b>
-<br><br>
--17 hrs to -17 hrs. DESCRIPTION
-<br><br>
-Losses: . , Score
-</p>
--->
 
 </section>
 

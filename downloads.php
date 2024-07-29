@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Command Modern Air/Naval Operations (CMANO) - PMC Tactical</title>
+<title>Downloads Command Modern Air/Naval Operations (CMANO) PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Command Modern Air/Naval Operations (CMANO) - PMC Tactical">
-<META name="keywords" content="Command, Modern, Air, Naval, Operations, CMANO, PMC, Tactical">
+<META name="description" content="Downloads Command Modern Air/Naval Operations (CMANO) PMC Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,8 +13,7 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Command Modern Air/Naval Operations (CMANO)</b></h1>
+<h1>Downloads Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
 </header>
 
 <section>

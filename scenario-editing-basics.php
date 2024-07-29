@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Scenario Editing Basics, Command Modern Air/Naval Operations (CMANO) - PMC Tactical</title>
+<title>Scenario Editing Basics Command Modern Air/Naval Operations (CMANO) PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Scenario Editing Basics, Command Modern Air/Naval Operations (CMANO) - PMC Tactical">
-<META name="keywords" content="Scenario, Editing, Command, Modern, Air, Naval, Operations, CMANO, PMC, Tactical">
+<META name="description" content="Scenario Editing Basics Command Modern Air/Naval Operations (CMANO) PMC Tactical">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,12 +13,11 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Command Modern Air/Naval Operations (CMANO)</b></h1>
+<h1>Scenario Editing Basics Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
 </header>
 
 <section>
-<h2>Scenario Editing Basics</h2>
+	<h2>Scenario Editing Basics</h2>
 
 <p>
 <a href="http://www.warfaresims.com/?page_id=2709">Warfaresims.com Manual Addendum: Scenario Editor</a> is like an extended changelog for main new changes.
@@ -44,12 +42,6 @@ Editor -> scenario times & description allows <b>24850</b> days (68 years and 12
 <p>
 Before you start to add units, you need sides added.
 </p>
-
-<!--
-<h2></h2>
-<p>
-</p>
--->
 
 </section>
 

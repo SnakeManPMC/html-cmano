@@ -27,6 +27,7 @@ It all started to game called Harpoon back in the 1989. CMANO: Northern Inferno 
 CMANO is developed by Warfare Sims, published by Matrix Games and released on September 24, 2013. Later it was renamed to Command Modern Operations (CMO).
 </p>
 
+<p><a href="community-scenario-pack.php">Community Scenario Pack</a></p>
 <p><a href="downloads.php">Downloads</a></p>
 <p><a href="file-format.php">File Format</a> of scenario and campaign files.</p>
 <p><a href="filter-out.php">Filter Out</a> contracts to de-clutter world map.</p>

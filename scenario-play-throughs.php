@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Scenario Play Throughs Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Scenario Play Throughs</h2>
 
 <p>This is a list of scenarios I played through and very quick comments of how good the scenario was, how I played, my losses and ending score. These are from Community Scenario Pack 30 dated Dec 7th, 2015. But that is just a start, I'm hoping to grow this as I play along any scenarios I get my hands on as well as campaigns.
@@ -416,13 +420,17 @@ Losses: 1x S 802 Walrus, 16x F-35A Lightning II, 10x F-16AM Falcon MLU, 1x Airbu
 10-18-17 0404hrs to 10-18-17 0435hrs. Corridor setup for carrier to sail, umm am I playing COD or what? And aircraft sorties ran out very quickly, then the carrier was unprotected, nice.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">CMANO root page</a></p>
 <br><br>
 <p><i>PMC CMANO 2015 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Command Modern Air/Naval Operations PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Command Modern Air/Naval Operations (CMANO)</h2>
 
 <p>
@@ -53,12 +57,16 @@ CMANO is developed by Warfare Sims, published by Matrix Games and released on Se
 <p><a href="unable-to-load-dll-lua52.php">How to fix error: Unable to load DLL lua52</a></p>
 <p><a href="unit-descriptions.php">Unit Descriptions</a></p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <br><br>
 <p><i>2015 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Tutorial Import/Export Files Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Tutorial - Import Export Units / Groups Files</h2>
 
 <p>
@@ -34,13 +38,18 @@ You can browse directories when saving .inst file, however when loading it defau
 <p>
 You can however create your own sub directory in [game-root]\ImportExport\ directory so finding your own files is bit easier.
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">CMANO root page</a></p>
 <br><br>
 <p><i>PMC CMANO 2015 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

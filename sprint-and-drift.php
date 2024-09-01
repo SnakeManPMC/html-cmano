@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Sprint And Drift Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Sprint And Drift</h2>
 
 <p>
@@ -31,13 +35,17 @@ Why do this sprint and drift? Well you want to make some progress on your waypoi
 <i>The principles of underwater acoustics indicate that the faster the ship goes, the poorer the sonar’s performance. The fast ship, however, would overcome this problem using her sonars only when stopped or going slowly and then taking advantage of her speed to make up for the time spent searching. This tactic is known as "sprint and drift."</i> -source <a href="https://www.usni.org/magazines/proceedings/1978/march/navys-future-small-fast-surface-ship" target="_blank">U.S. Naval Institute</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC CMANO root page</a></p>
 <br><br>
 <p><i>PMC CMANO 2015 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Downloads Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>CMANO Downloads</h2>
 
 <p>
@@ -35,13 +39,17 @@ Database Descriptions <a href="">Torrent Magnet</a> PMCTODO - coming soon
 Community Scenario Pack 36 <a href="">Torrent Magnet</a> PMCTODO - coming soon
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC CMANO root page</a></p>
 <br><br>
 <p><i>PMC CMANO 2015 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Database Images Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Database Images</h2>
 
 <p>
@@ -27,13 +31,17 @@ Database images install. Please first read <a href="community-scenario-pack.php"
 Unpack stupid CWDB.zip to CWDB/ dir, then 7-zip pack it properly to CWDB.7z packet. Note: CWDB.zip is 1.48gb and CWDB.7z is 1.4gb heh. Move CWDB.7z to D:\Gaming_DVD_2011\CMANO\Database.Images.Descriptions dir. Move CWDB/ dir to C:\Games\CMANO\DB\Images\ dir, let it overwrite old files. Do the exactly same thing to DB3000.zip file next, then databases are installed. BTW DB3000.zip is 3.08gb and DB3000.7z is 2.93gb haha.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC CMANO root page</a></p>
 <br><br>
 <p><i>PMC CMANO 2015 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Links Command Modern Air/Naval Operations (CMANO) PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>CMANO Community Links</h2>
 
 <p><a href="http://www.matrixgames.com/forums/tm.asp?m=3421711">how to add new database photos and custom unit descriptions</a></p>
@@ -24,13 +28,17 @@
 <p><a href="http://www.warfaresims.com/?page_id=1876">Warfaresims.com</a> Community Scenario Pack and Database Images & Descriptions.</p>
 <p><a href="https://www.youtube.com/channel/UCRk4-HOp1RA-eQMbwRDvdvQ/videos">Stoic Frog Gaming youtube</a></p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC CMANO root page</a></p>
 <br><br>
 <p><i>PMC CMANO 2015 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
